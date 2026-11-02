@@ -4,9 +4,9 @@ Repositorio publico de releases do **PrecoFacil** - precificacao de produtos pel
 
 ## Download
 
-Versao atual: **1.1.1**
+Versao atual: **1.1.2**
 
-**[Baixar PrecoFacil_Setup_v1.1.1.exe](https://github.com/brunocparra/precofacil-releases/releases/download/v1.1.1/PrecoFacil_Setup_v1.1.1.exe)**
+**[Baixar PrecoFacil_Setup_v1.1.2.exe](https://github.com/brunocparra/precofacil-releases/releases/download/v1.1.2/PrecoFacil_Setup_v1.1.2.exe)**
 
 Ou acesse a pagina de [Releases](../../releases) para ver todas as versoes.
 
